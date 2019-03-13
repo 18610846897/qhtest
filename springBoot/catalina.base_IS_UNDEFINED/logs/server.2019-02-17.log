@@ -1,0 +1,107 @@
+2019-02-17 18:52:08.929 [main] INFO  com.hwq.springBoot.Application - Starting Application on SWOUADO5814KCY2 with PID 13064 (C:\Users\Administrator\Desktop\springBoot\target\classes started by Administrator in C:\Users\Administrator\Desktop\springBoot)
+2019-02-17 18:52:08.934 [main] INFO  com.hwq.springBoot.Application - No active profile set, falling back to default profiles: default
+2019-02-17 18:52:11.623 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 4382 (http)
+2019-02-17 18:52:11.649 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-4382"]
+2019-02-17 18:52:11.673 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-02-17 18:52:11.673 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-17 18:52:11.685 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_191\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_191/bin/server;C:/Program Files/Java/jre1.8.0_191/bin;C:/Program Files/Java/jre1.8.0_191/lib/amd64;E:\大数据\SecureCRT\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;E:\sys\Java\jdk1.8.0_191;C:\apache-maven-3.6.0\bin;E:\sys\Java\jdk1.8.0_191\lib;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;C:\windows\System32;;.]
+2019-02-17 18:52:11.819 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-17 18:52:11.819 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 2717 ms
+2019-02-17 18:52:12.206 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-17 18:52:12.588 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-4382"]
+2019-02-17 18:52:12.632 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 4382 (http) with context path ''
+2019-02-17 18:52:12.638 [main] INFO  com.hwq.springBoot.Application - Started Application in 4.361 seconds (JVM running for 5.187)
+2019-02-17 19:35:11.830 [main] INFO  com.hwq.springBoot.Application - Starting Application on SWOUADO5814KCY2 with PID 5072 (C:\Users\Administrator\Desktop\springBoot\target\classes started by Administrator in C:\Users\Administrator\Desktop\springBoot)
+2019-02-17 19:35:11.832 [main] INFO  com.hwq.springBoot.Application - No active profile set, falling back to default profiles: default
+2019-02-17 19:35:15.747 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 6469 (http)
+2019-02-17 19:35:15.771 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-6469"]
+2019-02-17 19:35:15.791 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-02-17 19:35:15.791 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-17 19:35:15.808 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_191\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_191/bin/server;C:/Program Files/Java/jre1.8.0_191/bin;C:/Program Files/Java/jre1.8.0_191/lib/amd64;E:\大数据\SecureCRT\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;E:\sys\Java\jdk1.8.0_191;C:\apache-maven-3.6.0\bin;E:\sys\Java\jdk1.8.0_191\lib;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;C:\windows\System32;;.]
+2019-02-17 19:35:15.961 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-17 19:35:15.962 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 4052 ms
+2019-02-17 19:35:17.110 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-17 19:35:17.680 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-02-17 19:35:17.779 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-6469"]
+2019-02-17 19:35:17.813 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 6469 (http) with context path ''
+2019-02-17 19:35:17.817 [main] INFO  com.hwq.springBoot.Application - Started Application in 6.518 seconds (JVM running for 7.266)
+2019-02-17 19:35:52.251 [main] INFO  com.hwq.springBoot.Application - Starting Application on SWOUADO5814KCY2 with PID 3616 (C:\Users\Administrator\Desktop\springBoot\target\classes started by Administrator in C:\Users\Administrator\Desktop\springBoot)
+2019-02-17 19:35:52.255 [main] INFO  com.hwq.springBoot.Application - No active profile set, falling back to default profiles: default
+2019-02-17 19:35:55.425 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 6876 (http)
+2019-02-17 19:35:55.460 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-6876"]
+2019-02-17 19:35:55.484 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-02-17 19:35:55.485 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-17 19:35:55.504 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_191\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_191/bin/server;C:/Program Files/Java/jre1.8.0_191/bin;C:/Program Files/Java/jre1.8.0_191/lib/amd64;E:\大数据\SecureCRT\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;E:\sys\Java\jdk1.8.0_191;C:\apache-maven-3.6.0\bin;E:\sys\Java\jdk1.8.0_191\lib;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;C:\windows\System32;;.]
+2019-02-17 19:35:55.650 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-17 19:35:55.650 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3292 ms
+2019-02-17 19:35:56.798 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-17 19:35:57.336 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-02-17 19:35:57.456 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-6876"]
+2019-02-17 19:35:57.515 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 6876 (http) with context path ''
+2019-02-17 19:35:57.520 [main] INFO  com.hwq.springBoot.Application - Started Application in 5.797 seconds (JVM running for 6.634)
+2019-02-17 19:36:13.052 [main] INFO  com.hwq.springBoot.Application - Starting Application on SWOUADO5814KCY2 with PID 8104 (C:\Users\Administrator\Desktop\springBoot\target\classes started by Administrator in C:\Users\Administrator\Desktop\springBoot)
+2019-02-17 19:36:13.057 [main] INFO  com.hwq.springBoot.Application - No active profile set, falling back to default profiles: default
+2019-02-17 19:36:16.109 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2019-02-17 19:36:16.140 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2019-02-17 19:36:16.164 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-02-17 19:36:16.165 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-17 19:36:16.194 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_191\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_191/bin/server;C:/Program Files/Java/jre1.8.0_191/bin;C:/Program Files/Java/jre1.8.0_191/lib/amd64;E:\大数据\SecureCRT\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;E:\sys\Java\jdk1.8.0_191;C:\apache-maven-3.6.0\bin;E:\sys\Java\jdk1.8.0_191\lib;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;C:\windows\System32;;.]
+2019-02-17 19:36:16.409 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-17 19:36:16.410 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3203 ms
+2019-02-17 19:36:17.014 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'springBootController': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'hwq.msg' in value "${hwq.msg}"
+2019-02-17 19:36:17.018 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2019-02-17 19:36:17.042 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2019-02-17 19:36:17.048 [main] ERROR org.springframework.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'springBootController': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'hwq.msg' in value "${hwq.msg}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:380)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1395)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:592)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:849)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:142)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:316)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1260)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1248)
+	at com.hwq.springBoot.Application.main(Application.java:10)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'hwq.msg' in value "${hwq.msg}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:172)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:851)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1188)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1167)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374)
+	... 17 common frames omitted
+2019-02-17 19:37:04.913 [main] INFO  com.hwq.springBoot.Application - Starting Application on SWOUADO5814KCY2 with PID 9632 (C:\Users\Administrator\Desktop\springBoot\target\classes started by Administrator in C:\Users\Administrator\Desktop\springBoot)
+2019-02-17 19:37:04.918 [main] INFO  com.hwq.springBoot.Application - No active profile set, falling back to default profiles: default
+2019-02-17 19:37:08.289 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 3871 (http)
+2019-02-17 19:37:08.320 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-3871"]
+2019-02-17 19:37:08.355 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2019-02-17 19:37:08.355 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-02-17 19:37:08.393 [main] INFO  org.apache.catalina.core.AprLifecycleListener - The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_191\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:/Program Files/Java/jre1.8.0_191/bin/server;C:/Program Files/Java/jre1.8.0_191/bin;C:/Program Files/Java/jre1.8.0_191/lib/amd64;E:\大数据\SecureCRT\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;E:\sys\Java\jdk1.8.0_191;C:\apache-maven-3.6.0\bin;E:\sys\Java\jdk1.8.0_191\lib;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;;C:\windows\System32;;.]
+2019-02-17 19:37:08.581 [main] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2019-02-17 19:37:08.581 [main] INFO  org.springframework.web.context.ContextLoader - Root WebApplicationContext: initialization completed in 3569 ms
+2019-02-17 19:37:09.705 [main] INFO  o.s.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-17 19:37:10.201 [main] INFO  o.s.b.actuate.endpoint.web.EndpointLinksResolver - Exposing 2 endpoint(s) beneath base path '/actuator'
+2019-02-17 19:37:10.298 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-3871"]
+2019-02-17 19:37:10.387 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 3871 (http) with context path ''
+2019-02-17 19:37:10.393 [main] INFO  com.hwq.springBoot.Application - Started Application in 5.97 seconds (JVM running for 6.763)
+2019-02-17 19:37:28.047 [http-nio-3871-exec-1] INFO  org.apache.tomcat.util.http.parser.Cookie - A cookie header was received [1544890534,1544956616,1545399073; Hm_lvt_df17baab2895cc586cda96cfc3bb3f95=1544881026,1544890534,1544956616,1545399073; monitor_count=5] that contained an invalid cookie. That cookie will be ignored.
+ Note: further occurrences of this error will be logged at DEBUG level.
+2019-02-17 19:37:28.063 [http-nio-3871-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-02-17 19:37:28.063 [http-nio-3871-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2019-02-17 19:37:28.072 [http-nio-3871-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 9 ms
