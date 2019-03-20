@@ -1,4 +1,4 @@
-package com.hwq.springBoot.controller;
+package com.qh.controller;
 
 import java.io.BufferedReader;
 import java.io.IOException;
