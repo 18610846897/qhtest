@@ -12,7 +12,7 @@ public class Back implements FutureCallback<HttpResponse>
 
 	Back()
 	{
-		System.out.println("ÏìÓ¦Ç°»¹¿ÉÒÔ¸ÉµãÊÂÇé~");
+		System.out.println("å›è°ƒå‰æ‰§è¡Œ");
 	}
 
 	public void completed(HttpResponse httpResponse)
@@ -34,6 +34,6 @@ public class Back implements FutureCallback<HttpResponse>
 
 	public void cancelled()
 	{
-		System.out.println("¶Ï¿ªhttp³¤Á¬½Ó~");
+		System.out.println("å…³é—­è¿æ¥");
 	}
 }

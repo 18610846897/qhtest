@@ -43,7 +43,7 @@ public class DoHttpRequest
 			JSONObject obj = new JSONObject();
 			obj.put("ev", "A");
 			obj.put("sc", "30");
-			obj.put("as", "优选体");
+			obj.put("as", "test1");
 			response.getWriter().print(obj.toJSONString());
 			
 		} catch (IOException e)
@@ -87,7 +87,7 @@ public class DoHttpRequest
 			JSONObject obj = new JSONObject();
 			obj.put("ev", "B");
 			obj.put("sc", "40");
-			obj.put("as", "超优体");
+			obj.put("as", "test2");
 			response.getWriter().print(obj.toJSONString());
 			
 		} catch (IOException e)
